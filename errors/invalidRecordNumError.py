@@ -1,0 +1,2 @@
+class invalidRecordInputError(Exception):
+    pass
